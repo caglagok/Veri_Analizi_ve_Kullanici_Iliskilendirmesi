@@ -10,3 +10,6 @@ Projenin isterleri şu şekildedir;
  - Kullanıcıların ilgi alanlarının analizi
  - Kullanıcılar arasındaki ilişki
  - Bir kullanıcının aynı ilgi alanına sahip olan takip ettiği kişiler ve takipçileri
+
+Kullanılan veri seti 
+https://drive.google.com/file/d/18SvsFNnad1VqVRrIdf7b84gDl41Hni0z/view?usp=drive_link
